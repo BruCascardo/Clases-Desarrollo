@@ -3,7 +3,7 @@
 "version": "1.0.0",
 "description": "My awesome app",
 "main": "index.js",
-"scripts": { "start": "node practicarJs.js", "startCrud": "node CRUD1-Cliente.js"},
+"scripts": {"startC": "node CRUD1-Cliente.js"},
 "author": "Bruno",
 "license": "MIT",
 "dependencies": { "express": "^4.17.1" },
